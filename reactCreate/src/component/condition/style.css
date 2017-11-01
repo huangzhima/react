@@ -1,0 +1,11 @@
+.title {
+    color: green;
+}
+
+.img {
+    width: 100px;
+}
+
+:global(.all) {
+    background: lightcoral;
+}
